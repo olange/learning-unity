@@ -10,6 +10,8 @@ Discovering and learning using Unity editor and scripting.
 
 ### Interface essentials
 
+[Unity · Essentials](https://dayone.me/2jyNzWy) Game Objects, Prefabs, Tags and Layers _serie of 4 short videos, 8 min, Unity, 08.04-22.11.2013_ 
+
 [Unity · Editor basics](https://dayone.me/2hqwz7d) Getting to know the fundamentals of the editor and a few tips _video, 61 min., Mike Geigh, 23.09.2013_
 
 [Unity · Game Object](https://dayone.me/2hU7zKZ) Coordinate system in Unity, camera projection modes, game objects, components and transformations, nesting _video, 49 min., Mike Geigh, 30.09.2013_
