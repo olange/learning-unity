@@ -10,7 +10,7 @@ Discovering and learning using Unity editor and scripting.
 
 ### Beginner projects
 
-[Roll-a-ball tutorial](http://unity3d.com/learn/tutorials/projects/roll-ball-tutorial) _serie of 8 short videos, running 45 min. In total, Unity_
+[Roll-a-ball tutorial](http://unity3d.com/learn/tutorials/projects/roll-ball-tutorial) Create a simple rolling ball game that teaches many of the principles of working with Unity _serie of 8 short videos, 74 min., Unity, 24.07-19.08.2015_
 
 ### Interface essentials
 
