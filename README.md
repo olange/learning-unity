@@ -4,6 +4,10 @@
 
 Discovering and learning using Unity editor and scripting.
 
+## References
+
+[Unity Manual](http://docs.unity3d.com/Manual/class-Cloth.html)
+
 ## Tutorials
 
 ### Scripting geometry
