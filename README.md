@@ -6,7 +6,9 @@ Discovering and learning using Unity editor and scripting.
 
 ## References
 
-[Unity Manual](http://docs.unity3d.com/Manual/class-Cloth.html)
+[Unity Manual](http://docs.unity3d.com/Manual/)
+
+[Building for iOS using Unity Cloud Build](https://build.cloud.unity3d.com/support/guides/ios/)
 
 ## Tutorials
 
