@@ -31,3 +31,7 @@ Discovering and learning using Unity editor and scripting.
 [Unity · Game Object](https://dayone.me/2hU7zKZ) Coordinate system in Unity, camera projection modes, game objects, components and transformations, nesting _video, 49 min., Mike Geigh, 30.09.2013_
 
 [Unity · Tips & Tricks 1](https://dayone.me/2i11zIR) A bunch of tips, that do not fit in other tutorials _video, 59 min, Adam Buckner, 23.06.2014_ 
+
+### UI
+
+[Unity · New UI World Space Canvas](https://www.youtube.com/watch?v=Mzt1rEEdeOI) setting up and animating a UI canvas in world space; demonstrates parenting, alignment, scaling of UI elements (canvas, canvas group, text, images, mask) and animating their position and alpha to build a simple dialog _video, 35 min., 30.06.2014_
