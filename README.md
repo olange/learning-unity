@@ -35,3 +35,7 @@ Discovering and learning using Unity editor and scripting.
 ### UI
 
 [Unity · New UI World Space Canvas](https://www.youtube.com/watch?v=Mzt1rEEdeOI) setting up and animating a UI canvas in world space; demonstrates parenting, alignment, scaling of UI elements (canvas, canvas group, text, images, mask) and animating their position and alpha to build a simple dialog _video, 35 min., 30.06.2014_
+
+### Clojure
+
+[Arcadia Unity](https://github.com/arcadia-unity/Arcadia) Integration of the Clojure Programming Language with Unity; as of 07.02.2016, it embeds Clojure 1.7 into Unity 5.3.2 (see [branch develop](https://github.com/arcadia-unity/Arcadia/tree/develop))
