@@ -36,6 +36,18 @@ Discovering and learning using Unity editor and scripting.
 
 [Unity · New UI World Space Canvas](https://www.youtube.com/watch?v=Mzt1rEEdeOI) setting up and animating a UI canvas in world space; demonstrates parenting, alignment, scaling of UI elements (canvas, canvas group, text, images, mask) and animating their position and alpha to build a simple dialog _video, 35 min., 30.06.2014_
 
-### Clojure
+### Shaders
+
+[ShaderLab: Culling & Depth Testing](http://docs.unity3d.com/Manual/SL-CullAndDepth.html) in Unity's documentation; the ‹ Reveveal Backfaces › shader helps debugging Normals; see also the ‹ Glass Culling › shader.
+
+## Libraries and integrations
+
+### GitHub
+
+[Prime31 / GoKit](https://github.com/prime31/GoKit/wiki/1.-GoKit-Code-Basics) « Lightweight tween library for Unity aimed at making tweening objects dead simple and completely flexible » (cité par David le 15.01.2015)
+
+[UnityOSC](https://github.com/jorgegarcia/UnityOSC) Open Sound Control (OSC) C# classes interface for the Unity3d game engine. See also Paul Varcholik's [Bespoke OSC library](http://www.varcholik.org/wpress/open-sound-control/).
+
+### Clojure integration
 
 [Arcadia Unity](https://github.com/arcadia-unity/Arcadia) Integration of the Clojure Programming Language with Unity; as of 07.02.2016, it embeds Clojure 1.7 into Unity 5.3.2 (see [branch develop](https://github.com/arcadia-unity/Arcadia/tree/develop))
