@@ -48,6 +48,8 @@ Discovering and learning using Unity editor and scripting.
 
 [UnityOSC](https://github.com/jorgegarcia/UnityOSC) Open Sound Control (OSC) C# classes interface for the Unity3d game engine. See also Paul Varcholik's [Bespoke OSC library](http://www.varcholik.org/wpress/open-sound-control/).
 
+[TouchScript](https://github.com/TouchScript/TouchScript/wiki/Gestures) _« Complete multitouch solution for Unity: Win8, TUIO, Mobile. »_
+
 ### Clojure integration
 
 [Arcadia Unity](https://github.com/arcadia-unity/Arcadia) Integration of the Clojure Programming Language with Unity; as of 07.02.2016, it embeds Clojure 1.7 into Unity 5.3.2 (see [branch develop](https://github.com/arcadia-unity/Arcadia/tree/develop))
