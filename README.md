@@ -53,3 +53,18 @@ Discovering and learning using Unity editor and scripting.
 ### Clojure integration
 
 [Arcadia Unity](https://github.com/arcadia-unity/Arcadia) Integration of the Clojure Programming Language with Unity; as of 07.02.2016, it embeds Clojure 1.7 into Unity 5.3.2 (see [branch develop](https://github.com/arcadia-unity/Arcadia/tree/develop))
+
+
+## Articles
+
+### Testing
+
+* [The Unity Assertion Library](http://blogs.unity3d.com/2015/08/25/the-unity-assertion-library/) Unity, Tom Paszek, 25.08.2015
+* [Unity Test Tools](https://bitbucket.org/Unity-Technologies/unitytesttools/wiki/Home) Wiki
+* [Unity Test Runner](http://docs.unity3d.com/Manual/testing-editortestsrunner.html) Unity documentation
+* [NUnit Quickstart](http://www.nunit.org/index.php?p=quickStart&r=2.6.4), [NSubstitue Quickstart](http://nsubstitute.github.io/help/getting-started/)
+
+### Performance
+
+* [10000 Update() calls](http://blogs.unity3d.com/2015/12/23/1k-update-calls/) Unity blog, Valentin Simonov, 23.12.2015
+* [IL2CPP internals: Method calls](http://blogs.unity3d.com/2015/06/03/il2cpp-internals-method-calls/) Unity blog, Josh Peterson, 03.06.2015
