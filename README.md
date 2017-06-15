@@ -12,7 +12,13 @@ Discovering and learning using Unity editor and scripting.
 
 ## Tutorials
 
-### Scripting geometry
+### Data access
+
+[Using Google Firebase in Unity and a Primer in Event Driven Programming](https://medium.com/grtech-student-blog/using-google-firebase-in-unity-and-a-primer-in-event-driven-programming-7f1bf2d61dc7) How to implement Google Firebase in a Unity project; also covers the use of events _Stephen King, 30.04.2017_
+
+[Adding Firebase to your Unity Project](https://firebase.google.com/docs/unity/setup) Setting up an Unity project to use Firebase for authentication, messaging, and much more _Firecasts, 02.03.2017_
+
+### Scripting geometry
 
 [Unity · Spline-based Procedural Geometry](https://dayone.me/2hqvzt8) What is a mesh? What is space? Coordinate systems of various engines and mesh editing apps, Bézier-splines mathematics, Point-basis and tangent-basis functions, extrude a line-shape along a spline, adjusting UVs to consistently map textures, and tips _video, 61 min., Joachim Hólmer, 21.09.2015_
 
@@ -32,7 +38,7 @@ Discovering and learning using Unity editor and scripting.
 
 [Unity · Tips & Tricks 1](https://dayone.me/2i11zIR) A bunch of tips, that do not fit in other tutorials _video, 59 min, Adam Buckner, 23.06.2014_
 
-### UI
+### UI
 
 [Unity · New UI World Space Canvas](https://www.youtube.com/watch?v=Mzt1rEEdeOI) setting up and animating a UI canvas in world space; demonstrates parenting, alignment, scaling of UI elements (canvas, canvas group, text, images, mask) and animating their position and alpha to build a simple dialog _video, 35 min., 30.06.2014_
 
@@ -42,7 +48,7 @@ Discovering and learning using Unity editor and scripting.
 
 [ShaderLab: Culling & Depth Testing](http://docs.unity3d.com/Manual/SL-CullAndDepth.html) in Unity's documentation; the ‹ Reveveal Backfaces › shader helps debugging Normals; see also the ‹ Glass Culling › shader.
 
-## Libraries and integrations
+## Libraries and integrations
 
 ### GitHub
 
@@ -55,7 +61,6 @@ Discovering and learning using Unity editor and scripting.
 ### Clojure integration
 
 [Arcadia Unity](https://github.com/arcadia-unity/Arcadia) Integration of the Clojure Programming Language with Unity; as of 07.02.2016, it embeds Clojure 1.7 into Unity 5.3.2 (see [branch develop](https://github.com/arcadia-unity/Arcadia/tree/develop))
-
 
 ## Articles
 
